@@ -1,0 +1,34 @@
+[
+    {
+      "id": 0,
+      "name": " Bukit Menggindang",
+      "category": "",
+      "imageUrl": "https://www.celebes.co/borneo/wp-content/uploads/2020/01/Bukit-Menggindang.jpg",
+      "oldPrice": "Siapa sangka, Bukit Menggindang memiliki pemandangan yang menakjubkan dan membuat wisatawan tak ingin cepat pulang, walaupun usai melakukan perjalanan jauh, melihat panorma bukit membuat lelah cepat hilang. Pasalnya bukit tersebut menawarkan hamparan rerumputan hijau di perbukitan sehingga kawasannya sejuk dan sangat asri, selain itu untuk menjangkau bukit pun treknya tidak terlalu terjal sehingga wisatawan dapat menjangkau dengan cepat.",
+      "price": "Batu Ampar, Kec. Piani, Kab. Tapin."
+    },
+    {
+      "id": 1,
+      "name": "Kanal Lok Buntar",
+      "category": "",
+      "oldPrice": "Anda ingin menikmati aktifitas perahu di Tapin? Kanal Lok Buntar pilihannya karena pengunjung bebas menikmati aktifitas perahu-perahu yang berlayar. Semilirnya angin disertai suara perahu yang menderu membuat pikiran Anda tenang dibanding hiruk pikuk di perkotaan. Apalagi terdapat spot matahari terbenam loh, pasalnya matahari terbenam di kanal sangat mempesona dan pengunjung dapat mengabadikan moment tersebut secara maksimal.",
+      "imageUrl": "https://www.celebes.co/borneo/wp-content/uploads/2020/01/Kanal-Lok-Buntar.jpg",
+      "price": "Lok Buntar, Kec. Sungai Tanuki, Kab. Banjar"
+    },
+    {
+      "id": 2,
+      "name": " Air Terjun Lanjung Bapayung",
+      "category": "",
+      "imageUrl": "https://www.celebes.co/borneo/wp-content/uploads/2020/01/Air-Terjun-Lanjung-Bapayung.jpg",
+      "oldPrice": "Bukan rahasia lagi Air terjun Lanjung Bapayung di Tapin memiliki perbedaan dari air terjun kebanyakan, pasalnya air terjunnya bertingkat dan dikelilingi oleh hutan rimbun sehingga suasananya sangat asri dan eksotik. Alhasil perbedaan tersebut menjadi daya tarik tersendiri sehingga dikenal luas sampai ke mancanegara, banyak wisatawan tak mau ketinggaln berfoto diantara air terjun bertingkat karena lanskapnya unik",
+      "price": "Harakit, Kec. Piani, Kab. Tapin."
+    },
+    {
+      "id": 3,
+      "name": "Air Terjun Mandinamas",
+      "category": "",
+      "imageUrl": "https://www.celebes.co/borneo/wp-content/uploads/2020/01/Air-Terjun-Mandinamas.jpg",
+      "oldPrice": "Sejatinya, air terjun Mandinamas termasuk surga yang tersembunyi di Tapin karena tidak semua oran mengetahui keindahannya. Namun seiring perkembangan teknologi, objek wisata tersebut paling hits dan ramai dikunjungi. Apalagi keindahan air terjun dan sekitarnya tersebar di internet sehingga wisatawan berdatangan dari berbagai daerah.",
+      "price": "Belawaian, Kec. Piani, Kab. Tapin"
+    }
+  ]
